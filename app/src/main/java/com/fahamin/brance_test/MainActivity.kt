@@ -10,13 +10,26 @@ class MainActivity : AppCompatActivity() {
 
         helloFahim()
 
+
+
+        hellomr()
+
+    }
+
+    private fun hellomr() {
+        helloFahim()
+
     }
 
     private fun helloFahim() {
 
         var s = "Fahamin hasan fahim"
+
         var e = "try somthing new"
         var f = "this is new line"
+
+        
+var p = "checkhing tv "
 
     }
 }
