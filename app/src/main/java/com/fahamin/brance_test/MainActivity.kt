@@ -9,18 +9,27 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         helloFahim()
+
+
+
         hellomr()
 
     }
 
     private fun hellomr() {
         helloFahim()
+
     }
 
     private fun helloFahim() {
 
         var s = "Fahamin hasan fahim"
-        var e = "Fahamin"
+
+        var e = "try somthing new"
+        var f = "this is new line"
+
+        
 var p = "checkhing tv "
+
     }
 }
