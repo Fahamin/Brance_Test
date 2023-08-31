@@ -9,12 +9,14 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         helloFahim()
+
     }
 
     private fun helloFahim() {
 
         var s = "Fahamin hasan fahim"
-        var e = "Fahim"
+        var e = "try somthing new"
+        var f = "this is new line"
 
     }
 }
