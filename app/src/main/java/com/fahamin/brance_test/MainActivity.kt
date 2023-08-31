@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
     private fun helloFahim() {
 
         var s = "Fahamin hasan fahim"
-        var e = "Fahamin"
+        var e = "Fahim"
 
     }
 }
