@@ -23,13 +23,12 @@ class MainActivity : AppCompatActivity() {
 
     private fun helloFahim() {
 
-        var s = "Fahamin hasan fahim"
+        var s = "wwwwww fffffffffffffffff fahim"
 
-        var e = "try somthing new"
-        var f = "this is new line"
+        var e = "eeeeee rrrrr you new"
+        var f = "ssssssss is fffffff line"
 
-        
-var p = "checkhing tv "
+        var p = "nothing tv "
 
     }
 }
